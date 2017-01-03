@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 03, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started #100DaysOfCode Challenge. My first project is cloning an app called DayBreak, which is developed by Hello Sunday Morning's team. It is an app to help people to overcome alcohol problems. Today, I worked on icon mood component, which is based on a stateless React Native component.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with some tricks o React Native for granting shareability of the code, but the hardest part was make the result UI works on both Android and iOS.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
