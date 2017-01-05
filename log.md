@@ -18,3 +18,13 @@
 **Thoughts:** Make this app has been challenging and exciting. I know that are so many improvements to do, but I think the dots are beginning to connect.   
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 3: January 05, 2017
+
+
+**Today's Progress**: Started to work on a social-bar component. It will be the Card's footer, enabling users visualize how much likes and comments one post has.
+
+**Thoughts:** Today, I made a huge mistake with setState method. Although I know exactly how setState works, I called this.setState = { something: newValue}. After more than one hour looking for why my component was not re-rendering, I saw this silly mistake. So, always remember: setState is a method, and if your component is not updating after setState is called, odds are that you are not doing this.setState({ something: newValue }).         
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
