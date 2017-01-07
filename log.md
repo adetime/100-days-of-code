@@ -28,3 +28,13 @@
 **Thoughts:** Today, I made a huge mistake with setState method. Although I know exactly how setState works, I called this.setState = { something: newValue}. After more than one hour looking for why my component was not re-rendering, I saw this silly mistake. So, always remember: setState is a method, and if your component is not updating after setState is called, odds are that you are not doing this.setState({ something: newValue }).         
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 4: January 06, 2017
+
+
+**Today's Progress**: Updated the social-bar component, enabling the user gives likes. When a user taps the like button, the button's image change.
+
+**Thoughts:** Although this version of the social-bar is working enough well, I still need to figure out how properly create a reusable button which has both image and title as children.
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
