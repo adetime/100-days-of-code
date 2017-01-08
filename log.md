@@ -38,3 +38,13 @@
 **Thoughts:** Although this version of the social-bar is working enough well, I still need to figure out how properly create a reusable button which has both image and title as children.
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 5: January 07, 2017
+
+
+**Today's Progress**: Worked helping a friend in a new personal project. It will be an app for social dating. Was created the basic layout of Card, Header, and Footer components.
+
+**Thoughts:** Work with flex-like style is really interesting. But, I still need to carefully verify how to make the app layout looks similar on tablet screens. Maybe the problem is on assets - the images are not available in more than one resolution yet.  
+
+**Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
