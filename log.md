@@ -48,3 +48,13 @@
 **Thoughts:** Work with flex-like style is really interesting. But, I still need to carefully verify how to make the app layout looks similar on tablet screens. Maybe the problem is on assets - the images are not available in more than one resolution yet.  
 
 **Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
+
+
+### Day 6: January 08, 2017
+
+
+**Today's Progress**: Worked helping a friend in her project to create a new app for social dating. Was created the CardList component, and made some improvements on the Card component.
+
+**Thoughts:** My friend is still think about the app layout. So, for now, we are trying to make our code almost independent of the future layout.  
+
+**Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
