@@ -58,3 +58,14 @@
 **Thoughts:** My friend is still think about the app layout. So, for now, we are trying to make our code almost independent of the future layout.  
 
 **Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
+
+
+
+### Day 7: January 09, 2017
+
+
+**Today's Progress**: Started to work on scale factors to normalize font and image size., etc
+
+**Thoughts:** I need to make more test on recent devices, like iPhone 7, to see with the PixelRatio helper is working well to permit a great look on great range of devices.
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
