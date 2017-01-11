@@ -69,3 +69,12 @@
 **Thoughts:** I need to make more test on recent devices, like iPhone 7, to see with the PixelRatio helper is working well to permit a great look on great range of devices.
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+### Day 8: January 10, 2017
+
+
+**Today's Progress**: Started the SocialBar component and handled its layout in accordance to developed UI design.
+
+**Thoughts:** When we have, at least, a clear direction to follow, everything become easier. Today, the UI design was our facilitator, although it is still a drafting.   
+
+**Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
