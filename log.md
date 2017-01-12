@@ -78,3 +78,14 @@
 **Thoughts:** When we have, at least, a clear direction to follow, everything become easier. Today, the UI design was our facilitator, although it is still a drafting.   
 
 **Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
+
+
+### Day 9: January 11, 2017
+
+
+**Today's Progress**: I found a problem with flexbox on Android. Then, I created another little project to reproduce the unexpected behavior and isolate the problem until find its root cause. I already know how to fix it, but I have to study more deeply to understand why this problem not occur on iOS devices.  
+
+
+**Thoughts:** The problem occurs when we have a wrapper View container with styles properties given by { flex: 1, alignSelf: 'center'} without no other dimension given. So, if the wrapper View has a child Image component with { width: 350} we will find problems with flexbox on Android devices - particularly on Motorola X play. In that case, If the wrapper view has another view component as child, flexbox properties as justifyContent will break with the following values: 'flex-end', 'space-between', and 'space-around'.    
+
+**Link to work:** [Fexbox-Test](https://github.com/adetime/flexbox-test)
