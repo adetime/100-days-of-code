@@ -89,3 +89,14 @@
 **Thoughts:** The problem occurs when we have a wrapper View container with styles properties given by { flex: 1, alignSelf: 'center'} without no other dimension given. So, if the wrapper View has a child Image component with { width: 350} we will find problems with flexbox on Android devices - particularly on Motorola X play. In that case, If the wrapper view has another view component as child, flexbox properties as justifyContent will break with the following values: 'flex-end', 'space-between', and 'space-around'.    
 
 **Link to work:** [Fexbox-Test](https://github.com/adetime/flexbox-test)
+
+
+### Day 10: January 12, 2017
+
+
+**Today's Progress**: Solved the problem with flexbox on Android. In fact, it was not an Android specific problem.
+
+**Thoughts:**  It had not seen visible on iOS devices because they have width screens larger than the width of one child image. But, when the width of that image becomes larger we had the same behavior on any device. I found 2 quick ways to solve it: define the image width equals to device width, or remove alignSelf = 'center' property of the wrapper component - alignSelf overrides alignItems behavior in the parent component.    
+
+
+**Link to work:** [Fexbox-Test](https://github.com/adetime/flexbox-test)
