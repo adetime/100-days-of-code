@@ -100,3 +100,14 @@
 
 
 **Link to work:** [Fexbox-Test](https://github.com/adetime/flexbox-test)
+
+
+
+### Day 11: January 03, 2017
+
+
+**Today's Progress**: Created a better button version. The social bar looks as expected. The Body component of the card was created.
+
+**Thoughts:** It was a really cool day!!! At 5:15am I am going to bed so happy. Hopefully, I will have more code days like this :-)
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
