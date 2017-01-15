@@ -103,11 +103,21 @@
 
 
 
-### Day 11: January 03, 2017
+### Day 11: January 13, 2017
 
 
 **Today's Progress**: Created a better button version. The social bar looks as expected. The Body component of the card was created.
 
 **Thoughts:** It was a really cool day!!! At 5:15am I am going to bed so happy. Hopefully, I will have more code days like this :-)
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 12: January 14, 2017
+
+
+**Today's Progress**: Created ListCard component using ScrollView and map helper. Also, both Fack-API and FAKE-data were generated to seed multiple cards.
+
+**Thoughts:** The home screen is almost completed! Sooner, I will include interesting things as Redux/Apollo/Firebase. Goind to bed 7:00am!
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
