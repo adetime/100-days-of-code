@@ -121,3 +121,13 @@
 **Thoughts:** The home screen is almost completed! Sooner, I will include interesting things as Redux/Apollo/Firebase. Goind to bed 7:00am!
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 13: January 15, 2017
+
+
+**Today's Progress**: I Made a simplified version of ListCard component, and powered it by ListView. The reason to choice ListView, rather than ScrollView is because ListView can give us a more performant solution. It is totally related with their render strategy. On one hand, ScrollView renders the entire list even with a row is not visible. On the other hand, ListView renders just the part viewed, and does every management necessary to accomplish it behind the scenes.
+
+**Thoughts:** Building natives apps with React Native is really cool. Also, I figured out early that there is not more important and meaningful than test you own app on real (physical) devices. I think it help you even on creativity process. And if you have opportunity to test on multiple devices it is a bonus, because you will be putting on the table so many insights about what the limitations of your app are and how to overcome them.       
+
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
