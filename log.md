@@ -131,3 +131,12 @@
 **Thoughts:** Building natives apps with React Native is really cool. Also, I figured out early that there is not more important and meaningful than test you own app on real (physical) devices. I think it help you even on creativity process. And if you have opportunity to test on multiple devices it is a bonus, because you will be putting on the table so many insights about what the limitations of your app are and how to overcome them.       
 
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 14: January 16, 2017
+
+
+**Today's Progress**: I made some improvements on both Header component and Fake-API. The Header now is more generic and also works well when there is not an icon as a child component. The Fake-API is simpler than before, allowing a more direct way to access specific pieces of data. I also started to build the CardDetail component.
+
+**Thoughts:** I think that I will use a simple ScrollView to list comments on CardDetail. The reason is because the number of comments on one single card is not enough relevant to use a more complex component as a ListView.  
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
