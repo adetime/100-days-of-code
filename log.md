@@ -140,3 +140,12 @@
 
 **Thoughts:** I think that I will use a simple ScrollView to list comments on CardDetail. The reason is because the number of comments on one single card is not enough relevant to use a more complex component as a ListView.  
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 15: January 17, 2017
+
+
+**Today's Progress**: Today I finished the main components of CardDetail's screen, and started to play with Router on the app.
+
+**Thoughts:** I am using react-native-router-flux to manage app's router. That library seems to be very well developed, allowing customization of many of its behaviors and styles. One interested thing that I saw was that the default 'duration' of animation between scene transitions is 150 ms (mile-seconds). Although it is a short amount of time, it is enough time to human's eyes to detect slow motion. So, at the first play of router transition I thought "maybe it is so slow because this animation needs a level of performance that we do not have on simulator". But, even running the app directly on my physical devices, the feeling of lazing was the same. So, I jumped into the source code of the library and the light started to coming from. That 'duration' property can be customized! Then, I give to it the value of one mile-second (duration={1}). After that, transitions between scenes occurs as smooth as we can expect from a native app. I do not know why the authors of react-native-router-flux chosen that big duration. But, I am grateful that they give us the possibility to opt for a different value.        
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
