@@ -156,5 +156,14 @@
 
 **Today's Progress**: Today I finished the main components of CommentCreate's screen: Input and InputForm.
 
-**Thoughts:** I already have the majority of components need to reproduce basics user experience on the app. So, will start to clean up the code and organize all together because I think that it is time to moving on to the wonderful Redux' world! 
+**Thoughts:** I already have the majority of components need to reproduce basics user experience on the app. So, will start to clean up the code and organize all together because I think that it is time to moving on to the wonderful Redux' world!
+**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+
+
+### Day 17: January 19, 2017
+
+
+**Today's Progress**: Today I made a deeply review of the code. After a lot of simplification, the code is cleaner. 
+
+**Thoughts:** I think that anyone should make times to times a cleaning up of their code. It is interesting as we can see ourself code from a different point of view, just give one or to day.   
 **Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
