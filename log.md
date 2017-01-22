@@ -7,7 +7,7 @@
 
 **Thoughts:** I really struggled with some tricks on React Native for granting shareability of the code, but the hardest part was make the result UI works on both Android and iOS.
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 2: January 04, 2017
@@ -17,7 +17,7 @@
 
 **Thoughts:** Make this app has been challenging and exciting. I know that are so many improvements to do, but I think the dots are beginning to connect.   
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 3: January 05, 2017
@@ -27,7 +27,7 @@
 
 **Thoughts:** Today, I made a huge mistake with setState method. Although I know exactly how setState works, I called this.setState = { something: newValue}. After more than one hour looking for why my component was not re-rendering, I saw this silly mistake. So, always remember: setState is a method, and if your component is not updating after setState is called, odds are that you are not doing this.setState({ something: newValue }).         
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 4: January 06, 2017
@@ -37,7 +37,7 @@
 
 **Thoughts:** Although this version of the social-bar is working enough well, I still need to figure out how properly create a reusable button which has both image and title as children.
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 5: January 07, 2017
@@ -57,7 +57,7 @@
 
 **Thoughts:** My friend is still think about the app layout. So, for now, we are trying to make our code almost independent of the future layout.  
 
-**Link to work:** [Vallone-App](https://github.com/adetime/vallone-app)
+**Link to work:** [Vallone-App](https://github.com/adetime/valloneapp)
 
 
 
@@ -68,7 +68,7 @@
 
 **Thoughts:** I need to make more test on recent devices, like iPhone 7, to see with the PixelRatio helper is working well to permit a great look on great range of devices.
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 ### Day 8: January 10, 2017
 
@@ -110,17 +110,17 @@
 
 **Thoughts:** It was a really cool day!!! At 5:15am I am going to bed so happy. Hopefully, I will have more code days like this :-)
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 12: January 14, 2017
 
 
-**Today's Progress**: Created ListCard component using ScrollView and map helper. Also, both Fack-API and FAKE-data were generated to seed multiple cards.
+**Today's Progress**: Created ListCard component using ScrollView and map helper. Also, both Fake-API and FAKE-data were generated to seed multiple cards.
 
-**Thoughts:** The home screen is almost completed! Sooner, I will include interesting things as Redux/Apollo/Firebase. Goind to bed 7:00am!
+**Thoughts:** The home screen is almost completed! Sooner, I will include interesting things as Redux/Apollo/Firebase. Going to bed 7:00am!
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 13: January 15, 2017
@@ -130,7 +130,7 @@
 
 **Thoughts:** Building natives apps with React Native is really cool. Also, I figured out early that there is not more important and meaningful than test you own app on real (physical) devices. I think it help you even on creativity process. And if you have opportunity to test on multiple devices it is a bonus, because you will be putting on the table so many insights about what the limitations of your app are and how to overcome them.       
 
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 14: January 16, 2017
@@ -139,7 +139,7 @@
 **Today's Progress**: I made some improvements on both Header component and Fake-API. The Header now is more generic and also works well when there is not an icon as a child component. The Fake-API is simpler than before, allowing a more direct way to access specific pieces of data. I also started to build the CardDetail component.
 
 **Thoughts:** I think that I will use a simple ScrollView to list comments on CardDetail. The reason is because the number of comments on one single card is not enough relevant to use a more complex component as a ListView.  
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 15: January 17, 2017
@@ -148,7 +148,7 @@
 **Today's Progress**: Today I finished the main components of CardDetail's screen, and started to play with Router on the app.
 
 **Thoughts:** I am using react-native-router-flux to manage app's router. That library seems to be very well developed, allowing customization of many of its behaviors and styles. One interested thing that I saw was that the default 'duration' of animation between scene transitions is 150 ms (mile-seconds). Although it is a short amount of time, it is enough time to human's eyes to detect slow motion. So, at the first play of router transition I thought "maybe it is so slow because this animation needs a level of performance that we do not have on simulator". But, even running the app directly on my physical devices, the feeling of lazing was the same. So, I jumped into the source code of the library and the light started to coming from. That 'duration' property can be customized! Then, I give to it the value of one mile-second (duration={1}). After that, transitions between scenes occurs as smooth as we can expect from a native app. I do not know why the authors of react-native-router-flux chosen that big duration. But, I am grateful that they give us the possibility to opt for a different value.        
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 16: January 18, 2017
@@ -157,13 +157,22 @@
 **Today's Progress**: Today I finished the main components of CommentCreate's screen: Input and InputForm.
 
 **Thoughts:** I already have the majority of components need to reproduce basics user experience on the app. So, will start to clean up the code and organize all together because I think that it is time to moving on to the wonderful Redux' world!
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
 ### Day 17: January 19, 2017
 
 
-**Today's Progress**: Today I made a deeply review of the code. After a lot of simplification, the code is cleaner. 
+**Today's Progress**: Today I made a deeply review of the code. After a lot of simplification, the code is cleaner.
 
 **Thoughts:** I think that anyone should make times to times a cleaning up of their code. It is interesting as we can see ourself code from a different point of view, just give one or to day.   
-**Link to work:** [Day Break Clone](https://github.com/adetime/day-break-clone)
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 18: January 21, 2017
+
+
+**Today's Progress**: Today I started to organize all the app structure to deal with authentication/data persistence (firebase), and to manager the state by Redux.
+
+**Thoughts:** Yesterday I had a problem with babel/async/await. I tried to solve it following tip on stackoverflow, babel docs and opened/closed issues on github. Unfortunately, async/await is something still new, and with little indication of how to solve the problem that I was dealing. So, for now, I decided to put off that level of cut-edge strategy to use promise because it is not the main goal of this project. Then, today I am producing to the challenge again after one day without a positive contribution. Hopefully, that kind of problem will stay far away. 
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
