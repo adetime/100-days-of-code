@@ -174,5 +174,14 @@
 
 **Today's Progress**: Today I started to organize all the app structure to deal with authentication/data persistence (firebase), and to manager the state by Redux.
 
-**Thoughts:** Yesterday I had a problem with babel/async/await. I tried to solve it following tip on stackoverflow, babel docs and opened/closed issues on github. Unfortunately, async/await is something still new, and with little indication of how to solve the problem that I was dealing. So, for now, I decided to put off that level of cut-edge strategy to use promise because it is not the main goal of this project. Then, today I am producing to the challenge again after one day without a positive contribution. Hopefully, that kind of problem will stay far away. 
+**Thoughts:** Yesterday I had a problem with babel/async/await. I tried to solve it following tip on stackoverflow, babel docs and opened/closed issues on github. Unfortunately, async/await is something still new, and with little indication of how to solve the problem that I was dealing. So, for now, I decided to put off that level of cut-edge strategy to use promise because it is not the main goal of this project. Then, today I am producing to the challenge again after one day without a positive contribution. Hopefully, that kind of problem will stay far away.
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 19: January 22, 2017
+
+
+**Today's Progress**: Today I started work with FacebookAuthProvider, and fixed the previous problem with async.
+
+**Thoughts:** The problem  with  async was a forgotten keyword function or a fat arrow function used together. 
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
