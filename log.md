@@ -183,5 +183,14 @@
 
 **Today's Progress**: Today I started work with FacebookAuthProvider, and fixed the previous problem with async.
 
-**Thoughts:** The problem  with  async was a forgotten keyword function or a fat arrow function used together. 
+**Thoughts:** The problem  with  async was a forgotten keyword function or a fat arrow function used together.
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 20: January 23, 2017
+
+
+**Today's Progress**: Created a new screen to login with Facebook or email. Also, redux is managing what first screen the user will see when open the app.
+
+**Thoughts:** The login screen's UI was made inspired by iOS version of the real Daybreak app. But, I am specially satisfied with my personal touches to integrate the login with Facebook button. 
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
