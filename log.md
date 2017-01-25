@@ -192,5 +192,14 @@
 
 **Today's Progress**: Created a new screen to login with Facebook or email. Also, redux is managing what first screen the user will see when open the app.
 
-**Thoughts:** The login screen's UI was made inspired by iOS version of the real Daybreak app. But, I am specially satisfied with my personal touches to integrate the login with Facebook button. 
+**Thoughts:** The login screen's UI was made inspired by iOS version of the real Daybreak app. But, I am specially satisfied with my personal touches to integrate the login with Facebook button.
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 21: January 24, 2017
+
+
+**Today's Progress**: Made some improvements on actions creators and reducers. Now, the Continue with Facebook's button is called by redux.
+
+**Thoughts:** Today was hard to find a time to coding on this project because  It was a busy day. But, thankfully I worked enough time to evolve the app.     
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
