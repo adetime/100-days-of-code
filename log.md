@@ -205,10 +205,19 @@
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
 
 
-### Day 22: January 24, 2017
+### Day 22: January 25, 2017
 
 
 **Today's Progress**: Just more configuration on Facebook authentication to be consistent with redux's world. Also, studied how to persist on firebase profile data that the user already has on Facebook.
 
-**Thoughts:** The authentication process is evolving well. More some steps and I will start to work in how to avoid an user to has more than one account. On other words, how to aggregate Facebook and Email signing up process in just one user id. 
+**Thoughts:** The authentication process is evolving well. More some steps and I will start to work in how to avoid an user to has more than one account. On other words, how to aggregate Facebook and Email signing up process in just one user id.
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 23: January 26, 2017
+
+
+**Today's Progress**: Worked with promises using async/await, try/catch, and firebase.
+
+**Thoughts:** Firebase already give to us for free displayName, photoURL, and email when an user signing with credential given by Facebook. Need to pay more attention to firebase.auth().onAuthStateChanged() because it is triggered every time that we have a change on user authentication state. As a consequence, all next actions can be lost because of that automatic change on the actions stack.   
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
