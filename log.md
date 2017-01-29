@@ -231,3 +231,13 @@
 
 **Thoughts:** I made this screen called LoginWithEmail to help me start to configure authentication process on Firebase with email and password. For now, I will keep it simple to focus on authentication process, but LoginWithEmail component needs some hacks to deal better with keyboard aware events.
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+
+### Day 25: January 28, 2017
+
+
+**Today's Progress**: Started authentication with email and password with firebase.
+
+**Thoughts:** Firebase gives to us a special Real Time Listener called onAuthStateChanged() that is fired off every single time that user change their authentication status. So, it allows us to keep the user logged in the app, even if the user had signed up with email and password, anonymously, or by a third part provider.      
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
