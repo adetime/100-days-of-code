@@ -221,3 +221,13 @@
 
 **Thoughts:** Firebase already give to us for free displayName, photoURL, and email when an user signing with credential given by Facebook. Need to pay more attention to firebase.auth().onAuthStateChanged() because it is triggered every time that we have a change on user authentication state. As a consequence, all next actions can be lost because of that automatic change on the actions stack.   
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+
+### Day 24: January 27, 2017
+
+
+**Today's Progress**: Create a new screen to receive email and password for signing in/up process. Also, made changes on Input component to use vertical label.
+
+**Thoughts:** I made this screen called LoginWithEmail to help me start to configure authentication process on Firebase with email and password. For now, I will keep it simple to focus on authentication process, but LoginWithEmail component needs some hacks to deal better with keyboard aware events.
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
