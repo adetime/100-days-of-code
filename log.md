@@ -241,3 +241,12 @@
 
 **Thoughts:** Firebase gives to us a special Real Time Listener called onAuthStateChanged() that is fired off every single time that user change their authentication status. So, it allows us to keep the user logged in the app, even if the user had signed up with email and password, anonymously, or by a third part provider.      
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 26: January 29, 2017
+
+
+**Today's Progress**: Included createCardButton and MoodChoice component.  
+
+**Thoughts:** The createCardButton is a raised-like button. After had made all its implementation on React Native, I discovered that its shadow is not working properly on Android devices. There are various issues about that problem on React Native community. However, there is a possibility to fix it by updating to React Native 0.40 version. Then, I decided to design the button icon with Inkscape already with a shadow included.       
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
