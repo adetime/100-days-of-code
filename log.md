@@ -250,3 +250,12 @@
 
 **Thoughts:** The createCardButton is a raised-like button. After had made all its implementation on React Native, I discovered that its shadow is not working properly on Android devices. There are various issues about that problem on React Native community. However, there is a possibility to fix it by updating to React Native 0.40 version. Then, I decided to design the button icon with Inkscape already with a shadow included.       
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 27: January 30, 2017
+
+
+**Today's Progress**: Finished MoodChoice component, and started CardCreate component.  
+
+**Thoughts:** Redux is not the most simple concept to figure out as a project begins. But, after some iterations the big picture starts to be clear, and clear, and clear again. Then, the initial effort is totally valid to allow the app to scale on a more consistent and clear way.  
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
