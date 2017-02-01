@@ -259,3 +259,12 @@
 
 **Thoughts:** Redux is not the most simple concept to figure out as a project begins. But, after some iterations the big picture starts to be clear, and clear, and clear again. Then, the initial effort is totally valid to allow the app to scale on a more consistent and clear way.  
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 28: January 31, 2017
+
+
+**Today's Progress**: Worked in a SwitchBar component to allow enable/disable features.  
+
+**Thoughts:** The SwitchBar component receives a targetTag and a targetValue to switch to on/off. It uses a Switch native element given to us by React Native. Switch already has out box everything we need: 1) It looks natively different on each platform. 2) It self-controls the on/off value as the Switch UI is tapped.    
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
