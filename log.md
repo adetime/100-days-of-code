@@ -268,3 +268,12 @@
 
 **Thoughts:** The SwitchBar component receives a targetTag and a targetValue to switch to on/off. It uses a Switch native element given to us by React Native. Switch already has out box everything we need: 1) It looks natively different on each platform. 2) It self-controls the on/off value as the Switch UI is tapped.    
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 29: February 01, 2017
+
+
+**Today's Progress**: Included actions and reducers to comment feature.
+
+**Thoughts:** I created another reducer called CommentReducer. My initial idea was to keep state and behavior of comments feature inside of CardReducer. However, I realized that modularity is better.  
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
