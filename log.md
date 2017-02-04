@@ -277,3 +277,20 @@
 
 **Thoughts:** I created another reducer called CommentReducer. My initial idea was to keep state and behavior of comments feature inside of CardReducer. However, I realized that modularity is better.  
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+### Day 30: February 02, 2017
+
+
+**Today's Progress**: Moving remain parts to reducer - round 0.
+
+**Thoughts:** Started a reaction reducer to handle likes on cards.  
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 31: February 03, 2017
+
+
+**Today's Progress**: Moving remain parts to reducer - round 1.
+
+**Thoughts:** After putting some parts of the app on a redux fashion I read an article about re-ducks. It is an approach to make redux more scalable. Then, I decided to re-study redux principles before make any decision that can change the entire app's structure.     
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
