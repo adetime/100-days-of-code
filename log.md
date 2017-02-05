@@ -294,3 +294,13 @@
 
 **Thoughts:** After putting some parts of the app on a redux fashion I read an article about re-ducks. It is an approach to make redux more scalable. Then, I decided to re-study redux principles before make any decision that can change the entire app's structure.     
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+
+### Day 32: February 04, 2017
+
+
+**Today's Progress**: Moving remain parts to reducer - round 2.
+
+**Thoughts:** After reviewing the first part of redux, I started to transform the majority of components in presentational components. The core principal is to keep these components more simple, just handle how their UI looks like given a set of props. Any logic to deal with data is left to container components.   
+**Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
