@@ -304,3 +304,12 @@
 
 **Thoughts:** After reviewing the first part of redux, I started to transform the majority of components in presentational components. The core principal is to keep these components more simple, just handle how their UI looks like given a set of props. Any logic to deal with data is left to container components.   
 **Link to work:** [Daybreak Clone](https://github.com/adetime/daybreak-clone)
+
+
+### Day 33: February 07, 2017
+
+
+**Today's Progress**: Paused redux work on Daybreak app. Started another project to focus exclusively on Redux.
+
+**Thoughts:** I was not satisfied with the state tree organization of my Daybreak app. I passed one coding section trying to figure out how the app would be structured to be easily extensible and keep the chance of scale with higher value. Then, I decided to give a step back, review redux fundaments, and learning how other teams are empowering their apps with redux. During this retraining process I will build some little apps. The first app I started was a Counter app.        
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
