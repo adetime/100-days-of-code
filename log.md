@@ -313,3 +313,12 @@
 
 **Thoughts:** I was not satisfied with the state tree organization of my Daybreak app. I passed one coding section trying to figure out how the app would be structured to be easily extensible and keep the chance of scale with higher value. Then, I decided to give a step back, review redux fundaments, and learning how other teams are empowering their apps with redux. During this retraining process I will build some little apps. The first app I started was a Counter app.        
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 34: February 08, 2017
+
+
+**Today's Progress**: Worked on a redux counter app that shows logs of action and state tree update.
+
+**Thoughts:** That is a simple application of reducers composition, where on reducer delegates to another a piece of the state to be responsible. We have the CounterReducer as 'main reducer' that delegates to LoggerReducer the task to keep all history of state tree change.         
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
