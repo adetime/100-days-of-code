@@ -322,3 +322,12 @@
 
 **Thoughts:** That is a simple application of reducers composition, where on reducer delegates to another a piece of the state to be responsible. We have the CounterReducer as 'main reducer' that delegates to LoggerReducer the task to keep all history of state tree change.         
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 35: February 09, 2017
+
+
+**Today's Progress**: Included react-navigation library.
+
+**Thoughts:** I am using this review project also for learning how to use [react-navigation](https://reactnavigation.org) library. Although react-navigation is still on beta release, It will be official navigation library on the react native community. Then, the earlier I jump in react-navigation world, the more I learn.    
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
