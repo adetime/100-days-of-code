@@ -331,3 +331,30 @@
 
 **Thoughts:** I am using this review project also for learning how to use [react-navigation](https://reactnavigation.org) library. Although react-navigation is still on beta release, It will be official navigation library on the react native community. Then, the earlier I jump in react-navigation world, the more I learn.    
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 36: February 10, 2017
+
+
+**Today's Progress**: Basic layout of a todo list app and integration with redux.
+
+**Thoughts:** Started a basic todo-app to practice redux. I decided to begin simple and evolve to more complex redux application after. The goal at the moment is to review the fundaments. I am still working without using the redux's connect or provider helpers, but I know exactly how they should be applied. It is just a matter of focus on reducers and action creators right now.      
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 37: February 11, 2017
+
+
+**Today's Progress**: Improved the layout of the todo list app.
+
+**Thoughts:** Yesterday I passed the majority of time that I have to dedicate to this challenge learning about keyboard events and how to avoid the keyboard to hide the main content that the user is interacting with. React native has a component called KeyboardAvoindingView to handle that kind of problem, but it is not working properly yet. Then, in the remain time I just had opportunity to make some improvements on layout of the app;      
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 38: February 12, 2017
+
+
+**Today's Progress**: Defined the final touches of the app design and handled the most majority of functionalities need.
+
+**Thoughts:** I made a complete redesign of the app to make it looks more beautiful, but mainly to provide a better user experience. In terms of redux there are many things to-do yet. However, I am confident that I will handle them correctly from now on. Some of functionalities that I included today as a visibility filter are not using redux principles, but I will decided if they are essential or overwhelming. And, from those on the overwhelming category, I will decided if it is worth to apply redux just as a matter of practicing.       
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
