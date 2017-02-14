@@ -358,3 +358,21 @@
 
 **Thoughts:** I made a complete redesign of the app to make it looks more beautiful, but mainly to provide a better user experience. In terms of redux there are many things to-do yet. However, I am confident that I will handle them correctly from now on. Some of functionalities that I included today as a visibility filter are not using redux principles, but I will decided if they are essential or overwhelming. And, from those on the overwhelming category, I will decided if it is worth to apply redux just as a matter of practicing.       
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 39: February 13, 2017
+
+
+**Today's Progress**: Started to organize the redux structure in a redux-duck pattern.
+
+**Thoughts:** I am testing the redux-duck pattern to see if its benefits form a scale point of view are enough to justify the raise on app complexity. From my experience in others projects I hope that will be a better way to follow, because as the apps grows reducers and actions folders becomes overkill. The idea is provide an way to isolate the redux part of specific functionalities of the app, which has many benefits - as allowing different team members to work on different redux functionalities independently.            
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 40: February 14, 2017
+
+
+**Today's Progress**: App connected with redux's store.
+
+**Thoughts:** Removed the direct access to store from the app. Now, the state tree is access  by a combination of Provider and connected helpers of redux's ecosystem. The provider is a higher order component that holds the store, and by consequence the entire state tree of the app. The connect helper is another higher order component, but its duty is to give access to pieces of the state tree to each component container.   
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
