@@ -376,3 +376,12 @@
 
 **Thoughts:** Removed the direct access to store from the app. Now, the state tree is access  by a combination of Provider and connected helpers of redux's ecosystem. The provider is a higher order component that holds the store, and by consequence the entire state tree of the app. The connect helper is another higher order component, but its duty is to give access to pieces of the state tree to each component container.   
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 41: February 15, 2017
+
+
+**Today's Progress**: Fixed an issue with react-navigation.
+
+**Thoughts:** I had wrapped the TodoContainer component of the todos's app with redux's Provider. I made it inside of an interface component called HomeScreen. As HomeScreen only had that simple task I built it as a functional-stateless component. But, it gives me a problem - my HomeScreen component was unable to receive title. It is occurs because react-navigation handles title properties using state.      
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
