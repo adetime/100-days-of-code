@@ -385,3 +385,39 @@
 
 **Thoughts:** I had wrapped the TodoContainer component of the todos's app with redux's Provider. I made it inside of an interface component called HomeScreen. As HomeScreen only had that simple task I built it as a functional-stateless component. But, it gives me a problem - my HomeScreen component was unable to receive title. It is occurs because react-navigation handles title properties using state.      
 **Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 42: February 17, 2017
+
+
+**Today's Progress**: Studied import and export statements.
+
+**Thoughts:** The duck structure uses a more complex varied of import and export statements that I had seen. So, these study will help to understanding what is happen in each step.
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 43: February 19, 2017
+
+
+**Today's Progress**: Duck reducers implemented.
+
+**Thoughts:** Implemented a basic version of duck reducers and connect them to container components by connect helpers and mapStateToProps.
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 44: February 21, 2017
+
+
+**Today's Progress**: Tried to fix a problem with operations.
+
+**Thoughts:** On the ducks structure, an operation can be just a common action, or an action via middleware. For some reason even the simpler actions creators are not being fired. So, I have to investigate better what is going on. My guess is that there is a problem on import/export modules.
+**Link to work:** [Review Redux](https://github.com/adetime/review-redux)
+
+
+### Day 45: February 22, 2017
+
+
+**Today's Progress**: Started and finished the first 05 hours block of freeCodeCamp's HTML and CSS curriculum.
+
+**Thoughts:** Today, I started the Front End Development Certification of FCC. I believe that will help me to master fundamentals of web development that will enforce my skill as native app developer. In particular, it will help me with Javascript that is a language that I never had studied deeply. And, as 90% of React Native development is just Javascript, it is really worth.        
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
