@@ -421,3 +421,12 @@
 
 **Thoughts:** Today, I started the Front End Development Certification of FCC. I believe that will help me to master fundamentals of web development that will enforce my skill as native app developer. In particular, it will help me with Javascript that is a language that I never had studied deeply. And, as 90% of React Native development is just Javascript, it is really worth.        
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
+
+
+### Day 46: February 23, 2017
+
+
+**Today's Progress**: Finished the 05 hours block of freeCodeCamp's Responsive Design with Bootstrap.
+
+**Thoughts:** I known that today there are solutions better than Bootstrap to styles React apps, as in-line styles. But, for quick and simple apps Bootstrap can be a hand option. Also, learn it helps to understanding how they organize CSS styles, which helps to think about the ways we can organize and override our own styles.         
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
