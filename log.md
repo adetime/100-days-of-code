@@ -426,7 +426,7 @@
 ### Day 46: February 23, 2017
 
 
-**Today's Progress**: Finished the 05 hours block of freeCodeCamp's Responsive Design with Bootstrap.
+**Today's Progress**: Finished the 05 hours block of freeCodeCamp's Responsive Design with Bootstrap. Also, finished the 03 hours block of jQuery.
 
-**Thoughts:** I known that today there are solutions better than Bootstrap to styles React apps, as in-line styles. But, for quick and simple apps Bootstrap can be a hand option. Also, learn it helps to understanding how they organize CSS styles, which helps to think about the ways we can organize and override our own styles.         
+**Thoughts:** I known that today there are solutions better than Bootstrap to styles React apps, as in-line styles. But, for quick and simple apps Bootstrap can be a hand option. Also, learn it helps to understanding how they organize CSS styles, which helps to think about the ways we can organize and override our own styles. The same idea of learning purpose applies to jQuery.         
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
