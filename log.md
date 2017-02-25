@@ -430,3 +430,22 @@
 
 **Thoughts:** I known that today there are solutions better than Bootstrap to styles React apps, as in-line styles. But, for quick and simple apps Bootstrap can be a hand option. Also, learn it helps to understanding how they organize CSS styles, which helps to think about the ways we can organize and override our own styles. The same idea of learning purpose applies to jQuery.         
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
+
+
+### Day 47: February 24, 2017
+
+
+**Today's Progress**: Started FCC's Tribute Page project.
+
+**Thoughts:** Started my tribute page using Bootstrap, but I changed my mid and am going to use flexbox. On React Native I am used to use flexbox, but has only a small portion of features available on its web brother. So, I think it will help me to strong my knowledge on both native and web apps.            
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
+
+
+
+### Day 48: February 25, 2017
+
+
+**Today's Progress**: Complete the basic layout of FCC's Tribute Page project.
+
+**Thoughts:** I made Tribute Page's design using [gravit.io](https://gravit.io/d/Vyf9k32OYz/!/edit). After, I jumped to [CodePen.io](http://codepen.io/adetime/full/mWdbZv/) and started to code. Basically, I am just using HTML with flexbox and CSS. The only thing that I am not linking about codepen is that I can not commit each step of my project evolution to github to save a history record of my job. 
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
