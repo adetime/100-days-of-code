@@ -447,5 +447,14 @@
 
 **Today's Progress**: Complete the basic layout of FCC's Tribute Page project.
 
-**Thoughts:** I made Tribute Page's design using [gravit.io](https://gravit.io/d/Vyf9k32OYz/!/edit). After, I jumped to [CodePen.io](http://codepen.io/adetime/full/mWdbZv/) and started to code. Basically, I am just using HTML with flexbox and CSS. The only thing that I am not linking about codepen is that I can not commit each step of my project evolution to github to save a history record of my job. 
+**Thoughts:** I made Tribute Page's design using [gravit.io](https://gravit.io/d/Vyf9k32OYz/!/edit). After, I jumped to [CodePen.io](http://codepen.io/adetime/full/mWdbZv/) and started to code. Basically, I am just using HTML with flexbox and CSS. The only thing that I am not linking about codepen is that I can not commit each step of my project evolution to github to save a history record of my job.
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
+
+
+### Day 49: February 26, 2017
+
+
+**Today's Progress**: FCC's Tribute Page project almost completed.
+
+**Thoughts:** Everything is working as expected. The design with a customized timeline is working on web, android, and ios. I made tests on safari and chrome, having same results. The most majority of the work was made by me using only HTML with flexbox, and CSS. Also, I am still using Bootstrap to have a good look typography out of the box. Next step is to organize better my CSS code, looking for simplification opportunities. 
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and [CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
