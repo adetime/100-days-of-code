@@ -456,5 +456,24 @@
 
 **Today's Progress**: FCC's Tribute Page project almost completed.
 
-**Thoughts:** Everything is working as expected. The design with a customized timeline is working on web, android, and ios. I made tests on safari and chrome, having same results. The most majority of the work was made by me using only HTML with flexbox, and CSS. Also, I am still using Bootstrap to have a good look typography out of the box. Next step is to organize better my CSS code, looking for simplification opportunities. 
+**Thoughts:** Everything is working as expected. The design with a customized timeline is working on web, android, and ios. I made tests on safari and chrome, having same results. The most majority of the work was made by me using only HTML with flexbox, and CSS. Also, I am still using Bootstrap to have a good look typography out of the box. Next step is to organize better my CSS code, looking for simplification opportunities.
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and
+[CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
+
+
+### Day 50: February 27, 2017
+
+
+**Today's Progress**: FCC's Tribute Page without Bootstrap.
+
+**Thoughts:** Removed Bootstrap and played with CSS to have the same look as before.
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and [CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
+
+
+### Day 51: February 28, 2017
+
+
+**Today's Progress**: FCC's Tribute Page completed.
+
+**Thoughts:** Organized CSS and HTML and give the final touches to this first version of the tribute page.  
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and [CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
