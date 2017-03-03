@@ -477,3 +477,12 @@
 
 **Thoughts:** Organized CSS and HTML and give the final touches to this first version of the tribute page.  
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and [CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
+
+
+### Days 52 and 53: February 1-2, 2017
+
+
+**Today's Progress**: FCC's Javascript basic block.
+
+**Thoughts:** Finished 10-hour block of basic Javascript on FCC. At this point I will move to the beta version of FCC available on beta.freecodecamp.com. The reason for this change is because I want to learn a more modern version of Responsive Web Design. On new FCC's curriculum it is addressed by HTML5, CSS, Applied Visual Design, Applied Accessibility, Responsive Design Principles, CSS Flexbox, and Applied Responsive Web Design Projects. It is a hard decision to make, because my progress on beta.freecodecamp.com will not be recorded and recognized after the new curriculum release. But, the bottom line is: I am here to learn and perfect my skills, not only to get a certified recognition. And, at the end, I will be able to resubmit my project to receive Certification. So, let's do that man!     
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
