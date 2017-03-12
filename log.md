@@ -479,10 +479,20 @@
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime) and [CodePen.io](http://codepen.io/adetime/full/mWdbZv/)
 
 
-### Days 52 and 53: February 1-2, 2017
+### Days 52 and 53: March 1-2, 2017
 
 
 **Today's Progress**: FCC's Javascript basic block.
 
 **Thoughts:** Finished 10-hour block of basic Javascript on FCC. At this point I will move to the beta version of FCC available on beta.freecodecamp.com. The reason for this change is because I want to learn a more modern version of Responsive Web Design. On new FCC's curriculum it is addressed by HTML5, CSS, Applied Visual Design, Applied Accessibility, Responsive Design Principles, CSS Flexbox, and Applied Responsive Web Design Projects. It is a hard decision to make, because my progress on beta.freecodecamp.com will not be recorded and recognized after the new curriculum release. But, the bottom line is: I am here to learn and perfect my skills, not only to get a certified recognition. And, at the end, I will be able to resubmit my project to receive Certification. So, let's do that man!     
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime)
+
+
+### Days 54 and 55: March 3-12, 2017
+
+
+**Today's Progress**: First steps on FCC's beta Curriculum - FCC-Beta.
+
+**Thoughts:** It has been an amazing journey on FCC-Beta. Last 10 days were indeed busy, but rewarding. However, I did not make registries on twitter or here. Then, I will count these day only as 2 days. In short, I finished Basic HTML5/CSS and I am almost done with Applied Visual Design. The most rewarding thing was that opened some issues and 2 pull request ([13811] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13811), and [13818] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13818)) to contribute with the beta curriculum. It's really great because I learn more in an active attitude. Even the link to FCC-Beta will not work after it goes to production, it follows below.          
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime), and
+[FCC-Beta Curriculum](https://beta.freecodecamp.com/adetime)
