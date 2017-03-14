@@ -493,6 +493,15 @@
 
 **Today's Progress**: First steps on FCC's beta Curriculum - FCC-Beta.
 
-**Thoughts:** It has been an amazing journey on FCC-Beta. Last 10 days were indeed busy, but rewarding. However, I did not make registries on twitter or here. Then, I will count these day only as 2 days. In short, I finished Basic HTML5/CSS and I am almost done with Applied Visual Design. The most rewarding thing was that opened some issues and 2 pull request ([13811] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13811), and [13818] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13818)) to contribute with the beta curriculum. It's really great because I learn more in an active attitude. Even the link to FCC-Beta will not work after it goes to production, it follows below.          
+**Thoughts:** It has been an amazing journey on FCC-Beta. Last 10 days were indeed busy, but rewarding. However, I did not make registries on twitter or here. Then, I will count these days only as 2 days. In short, I finished Basic HTML5/CSS and I am almost done with Applied Visual Design. The most rewarding thing was that opened some issues and 2 pull request ([13811] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13811), and [13818] (https://github.com/freeCodeCamp/freeCodeCamp/pull/13818)) to contribute with the beta curriculum. It's really great because I learn more in an active attitude. Even the link to FCC-Beta will not work after it goes to production, it follows below.          
+**Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime), and
+[FCC-Beta Curriculum](https://beta.freecodecamp.com/adetime)
+
+### Days 56: March 13, 2017
+
+
+**Today's Progress**: Finished Visual Applied Design curriculum.
+
+**Thoughts:** Started Applied Accessibility. I'm a little slow in this section, but I'm applying every new content to give more accessibility to my tribute page project.            
 **Link to work:** [FCC Curriculum](https://freecodecamp.com/adetime), and
 [FCC-Beta Curriculum](https://beta.freecodecamp.com/adetime)
